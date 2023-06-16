@@ -8,6 +8,7 @@
 
 ### Comandos para iniciar
 
+- npm install
 - npx expo start  (para abrir no expo de mesmo wifi)
 - npx expo start --tunnel (para abrir em outro lugar expo pelo QR code sem o mesmo wifi)
 
