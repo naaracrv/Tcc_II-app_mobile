@@ -10,6 +10,7 @@
 
 - npm install
 - npx expo start  (para abrir no expo de mesmo wifi)
+  OU
 - npx expo start --tunnel (para abrir em outro lugar expo pelo QR code sem o mesmo wifi)
 
 ### Comandos Git
